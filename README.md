@@ -73,7 +73,7 @@ CREATE DATABASE DBB;
 # Connecter à la base de données créée
 \c DBB;
 
-# Créer schema & group & user
+# Create schema & group & user
 CREATE SCHEMA myschema;
 CREATE GROUP mygroup;
 
