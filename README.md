@@ -2,10 +2,8 @@
 1) Download latest postgres portable version from https://www.enterprisedb.com/download-postgresql-binaries
 2) Extract it to c:\postgresql
 3) Copy `.bat` [files](https://github.com/boubkhaled/postgre-portable-scripts/tree/main/windows) to c:\postgresql
-4) Enjoy :) 
+4) Postgre root folder looks like:
 
-
-# PostgreSQL root folder scripts
 ![image](https://github.com/boubkhaled/postgre-portable-scripts/assets/18572114/b325954d-0fa0-4591-80d3-a2070fd9cc24)
 
 
