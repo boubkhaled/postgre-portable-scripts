@@ -1,3 +1,7 @@
+# PostgreSQL root folder scripts
+![image](https://github.com/boubkhaled/postgre-portable-scripts/assets/18572114/b325954d-0fa0-4591-80d3-a2070fd9cc24)
+
+
 # 1) Start the server
 
 ![image](https://github.com/boubkhaled/postgre-portable-scripts/assets/18572114/3bfc25bf-46ae-454a-ade3-8ce87676a0fa)
